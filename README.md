@@ -1,5 +1,6 @@
 # UlisesDev
 
+
 <div align="center">
 
 # 👨‍💻 Portafolio de Proyectos
@@ -159,11 +160,6 @@
 
 <div align="center">
 
-### 💭 Frase del Día
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 **Hecho con ❤️ y mucho ☕**
 
